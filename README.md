@@ -1,4 +1,4 @@
-- next dummy app
+NEXT dummy app
 
 A dummy app to showcase
 
